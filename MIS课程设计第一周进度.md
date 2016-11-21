@@ -7,5 +7,4 @@
 过程建模</br>
 ![业务流程](https://github.com/09143520/guanlixx/blob/master/第一周进度/图片/业务流程.jpg)</br>
 ![数据模型图](https://github.com/09143520/guanlixx/blob/master/第一周进度/图片/数据模型图.jpg)</br>
-# 系统设计</br>
-数据库设计
+
